@@ -30,7 +30,6 @@ Think about models in your business example
 
 # Python Tutorial
 
+- Example : http://cdn.visualbi.com/wp-content/uploads/tableau-sales-kpi-performance-3-country-analysis.png
+
 # Tableau Tutorial 
-
-
-
