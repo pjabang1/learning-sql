@@ -1,10 +1,15 @@
 # SQL Tutorial
 
+This SQL tutorial involve creating a databate to manage and report a container business. We will use the MySQL database management system to structure and store data.
+
 ## MySQL 
 
 ### Create Database 
 
+
 ### Create Tables 
+
+- 
 
 ### Insert Data
 
