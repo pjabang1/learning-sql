@@ -9,7 +9,11 @@ This SQL tutorial involve creating a databate to manage and report transaction f
 
 ### Create Tables 
 
-- 
+Think about models in your business example 
+
+- containers : id, name, leave_date, arrival_date
+- inventory : 
+- inventory_types : 
 
 ### Insert Data
 
@@ -21,7 +25,11 @@ This SQL tutorial involve creating a databate to manage and report transaction f
 
 ### Delete Data
 
-# Tableau Tutorial 
+# PHP Tutorial
 
 # Python Tutorial
+
+# Tableau Tutorial 
+
+
 
