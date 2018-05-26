@@ -25,8 +25,6 @@ Think about models in your business example
 
 ### Delete Data
 
-# PHP Tutorial
-
 # Python Tutorial
 
 # Tableau Tutorial 
