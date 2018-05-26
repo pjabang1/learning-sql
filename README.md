@@ -4,6 +4,9 @@ This SQL tutorial involve creating a databate to manage and report transaction f
 
 ## MySQL 
 
+- Install mysqsl : https://dev.mysql.com/doc/refman/5.6/en/osx-installation-pkg.html
+- Install Workbench : https://dev.mysql.com/doc/refman/5.6/en/osx-installation-pkg.html
+
 ### Create Database 
 
 
