@@ -19,7 +19,7 @@ This SQL tutorial involve creating a databate to manage and report transaction f
 
 ### Update Data
 
-### Delet Data
+### Delete Data
 
 # Tableau Tutorial 
 
