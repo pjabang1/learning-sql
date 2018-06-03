@@ -15,6 +15,7 @@ This SQL tutorial involve creating a databate to manage and report transaction f
 
 ### Create Database 
 
+```create database gaica;```
 
 ### Create Tables 
 
