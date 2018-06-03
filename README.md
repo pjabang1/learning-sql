@@ -4,8 +4,10 @@ This SQL tutorial involve creating a databate to manage and report transaction f
 
 ## MySQL 
 
-- Install mysqsl : https://dev.mysql.com/doc/refman/5.6/en/osx-installation-pkg.html
-- Install Workbench : https://dev.mysql.com/doc/refman/5.6/en/osx-installation-pkg.html
+## Sequel Pro
+
+To go access sequel pro, go to applications.
+Once opened, enter '127.0.0.1' as host and 'root' as username
 
 ### Create Database 
 
