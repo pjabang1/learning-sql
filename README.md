@@ -9,6 +9,10 @@ This SQL tutorial involve creating a databate to manage and report transaction f
 - To go access sequel pro, go to applications.
 - Once opened, enter '127.0.0.1' as host and 'root' as username
 
+## Tutorials
+
+- https://www.w3schools.com/sql/
+
 ### Create Database 
 
 
