@@ -21,6 +21,18 @@ This SQL tutorial involve creating a databate to manage and report transaction f
 
 Think about models in your business example 
 
+### Containers
+```
+CREATE TABLE containers (
+    ContainerId int,
+    ContainerName varchar(255),
+    LoadDate DATE,
+    DepartureDate DATE,
+    ArrivalDate DATE,
+    Cost decimal(10,2)
+);
+```
+
 - containers : id, name, leave_date, arrival_date
 - inventory : 
 - inventory_types : 
