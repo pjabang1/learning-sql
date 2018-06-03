@@ -33,6 +33,18 @@ CREATE TABLE containers (
 );
 ```
 
+### Items
+
+### Joins
+
+```
+select ItemName, ItemQuantity, sum(s.`Quantity`) AS SoldQuantity, ItemQuantity-sum(s.`Quantity`) AS Remaining
+from items i
+LEFT JOIN sales s ON i.`ItemId` = s.`ItemId` 
+GROUP BY 
+ItemName, ItemQuantity;
+```
+
 - containers : id, name, leave_date, arrival_date
 - inventory : 
 - inventory_types : 
